@@ -18,7 +18,7 @@ https://github.com/oelin/pd-vae/assets/42823429/47f44778-c918-40fe-9e5d-f919ce4c
 
 ## Architecture
 
-VL-VAE uses a straightforward architecture consisting of two headless transformers that implement the encoder and decoder networks respectively. Unlike conventional autoencoders, the architecture *does not neccessarily* include downsampling layers. Instead, compression is enforced by randomly truncating the encoder's output (i.e. latent embeddings) during training. We sample truncation lengths according to an exponential distribution, in which case the decay rate parameter controls the amount of compression. 
+VL-VAE uses a straightforward architecture consisting of two headless transformers that implement the encoder and decoder networks respectively. Unlike conventional autoencoders, the architecture *does not neccessarily* include downsampling layers. Instead, compression is enforced by randomly truncating the encoder's output (i.e. latent embeddings) during training. We sample truncation lengths according to an exponential distribution.
 
 
 ## TODO
