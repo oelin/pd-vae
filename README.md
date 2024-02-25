@@ -1,10 +1,10 @@
 # VL-VAE
 
-VL-VAE is a transformer-based VAE architecture that supports [progressive decoding](https://www.youtube.com/watch?v=UphN1_7nP8U) through VL masking. 
+VL-VAE is a transformer-based VAE architecture that supports [progressive decoding](https://www.youtube.com/watch?v=UphN1_7nP8U) through length-invariant latent embeddings.
 
-## Reconstructions
+## Examples
 
-The following clips demonstrate how images can be progressively decoded by varying the latent sequence length at inference time.
+Progressive decoding examples from CelebA-HQ-256x256. 
 
 https://github.com/oelin/pd-vae/assets/42823429/39b45934-3900-4987-9888-b6412b403f6a
 
