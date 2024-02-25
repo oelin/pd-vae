@@ -25,4 +25,5 @@ VL-VAE uses a straightforward architecture consisting of two headless transforme
 
 - [ ] Experiment with alternative attention mechanisms (NAT, axial, etc).
 - [ ] Experiment with alternative positional embedding methods.
+- [ ] Experiment with alternative patch embeddings.
 - [ ] Scale up to 1024x1024 resolution.
