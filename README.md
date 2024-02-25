@@ -15,3 +15,7 @@ https://github.com/oelin/pd-vae/assets/42823429/235fea18-2fde-4692-9076-2575f1b2
 
 https://github.com/oelin/pd-vae/assets/42823429/47f44778-c918-40fe-9e5d-f919ce4c63f2
 
+## TODO
+
+- [ ] Compare linear global attention against NAT.
+- [ ] Use superior positional embedding method such as xPos.
