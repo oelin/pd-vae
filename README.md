@@ -1,7 +1,6 @@
 # VL-VAE
 
-VL-VAE is a transformer-based VAE architecture that supports [progressive decoding] through masking in latent space. 
-
+VL-VAE is a transformer-based VAE architecture that supports [progressive decoding](https://www.youtube.com/watch?v=UphN1_7nP8U) through VL masking. 
 
 ## Reconstructions
 
