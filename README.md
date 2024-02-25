@@ -1,3 +1,3 @@
-# VL-VAE
+# PD-VAE
 
-VL-VAE is a variational autoencoder trained to produce coarse-to-fine latent codes through randomized masking.
+Progressive Decoding VAE (PD-VAE) is a transformer-based autoencoder architecture that supports [progressive decoding] through latent code masking.
